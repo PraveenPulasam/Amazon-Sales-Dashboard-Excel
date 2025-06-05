@@ -2,7 +2,7 @@
 
 This project is a **dynamic sales dashboard** built in **Microsoft Excel**, created to analyze and visualize **Amazon sales data for Q1 2025**. It demonstrates practical data analyst skills using PivotTables, Slicers, Charts, and Excel formulas.
 
-![Dashboard Screenshot]https://github.com/PraveenPulasam/Amazon-Sales-Dashboard-Excel/blob/main/Amozan%20sales.png
+![Dashboard Screenshot]((https://github.com/PraveenPulasam/Amazon-Sales-Dashboard-Excel/blob/main/Amozan%20sales.png))
 
 ---
 
